@@ -1,4 +1,7 @@
-# test coverage for  [grunt-version (v1.1.1)](https://github.com/kswedberg/grunt-version)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-version.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-version) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-version.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-version)
+# npmtest-grunt-version
+
+#### basic test coverage for  [grunt-version (v1.1.1)](https://github.com/kswedberg/grunt-version)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-version.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-version) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-version.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-version)
+
 #### Grunt task to handle versioning of a project.
 
 [![NPM](https://nodei.co/npm/grunt-version.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-version)
@@ -88,7 +91,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
